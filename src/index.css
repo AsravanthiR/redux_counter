@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&display=swap");
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Baloo 2", cursive;
+  background: rgb(34, 193, 195);
+  background-repeat: no-repeat;
+
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 0.34715821812596004) 76%
+  );
+}
